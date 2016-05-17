@@ -1,0 +1,41 @@
+{
+  "/index.html": {
+    "main": [
+      {
+        "src": "../TappyPlane/index.js",
+        "dest": "/static/js/f03b53bd823f0f829c484e56b407f075.js",
+        "deps": [
+          "../TappyPlane/js/loading_page.js"
+        ]
+      }
+    ],
+    "js": [
+      {
+        "dest": "/static/js/0766c2d026b5b0e14f00914b856059e9.js",
+        "deps": [
+          "../TappyPlane/coolie.min.js"
+        ]
+      },
+      {
+        "dest": "/static/js/073ad381d62936498b5961d57e32b2ab.js",
+        "deps": [
+          "../TappyPlane/libs/laya.core.js",
+          "../TappyPlane/libs/laya.webgl.js",
+          "../TappyPlane/libs/laya.ani.js",
+          "../TappyPlane/libs/laya.ui.js",
+          "../TappyPlane/libs/matter.js",
+          "../TappyPlane/libs/matter-RenderLaya.js",
+          "../TappyPlane/js/layaUI.max.all.js"
+        ]
+      },
+      {
+        "dest": "/static/js/c69a6f1c6d17203c0708d39b39ab03c2.js",
+        "deps": [
+          "../TappyPlane/libs/decomp.js"
+        ]
+      }
+    ],
+    "css": [],
+    "res": []
+  }
+}
