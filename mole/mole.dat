@@ -1,0 +1,18 @@
+CACHE MANIFEST
+
+CACHE:
+./data/music/音效@jaqu1.mp3
+./data/music/音效@jaqu2.mp3
+./data/music/音效@jaqu3.mp3
+./data/music/音效@jaqu4.mp3
+./data/music/音效@jaqu5.mp3
+./data/music/音效@jaqu6.mp3
+./data/img/场景@atlas0.png
+./data/img/loading@atlas0.png
+./data/img/UI@atlas0.png
+./data/img/游戏对象@atlas0.png
+
+
+
+NETWORK:
+*
