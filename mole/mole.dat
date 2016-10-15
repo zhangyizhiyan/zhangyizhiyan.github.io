@@ -11,7 +11,11 @@ CACHE:
 ./data/img/loading@atlas0.png
 ./data/img/UI@atlas0.png
 ./data/img/游戏对象@atlas0.png
-
+./js/libs/fairygui/fairygui.min.js
+./js/libs/min/laya.ani.min.js
+./js/libs/min/laya.core.min.js
+./js/libs/min/laya.html.min.js
+./js/libs/min/laya.webgl.min.js
 
 
 NETWORK:
